@@ -9,13 +9,10 @@
         
         td {
             width: 7rem;
+            height: 7rem;
             border: 3px solid $black;
-            font-size: .8rem;
+            font-size: 1rem;
             padding: 0;
-
-            &:hover {
-                cursor: url('@/assets/img/rosin.png') 4 12, auto;
-            }
 
             .bingo-box-multi {
                 justify-content: space-between;
