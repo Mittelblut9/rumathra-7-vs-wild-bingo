@@ -227,7 +227,7 @@ export default {
             setTimeout(() => {
                 bingoContainer.querySelector('h1').style.opacity = 0;
                 bingoContainer.classList.remove('section-bingo--animation--active');
-            }, 5000);
+            }, 8000);
         }
     }
 };
